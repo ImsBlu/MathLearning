@@ -3,8 +3,8 @@
     "short_name": "PepsiNitro",
     "icons": [
         {
-            "src": "assets/img/logo-192.png",
-            "sizes": "192x192",
+            "src": "assets/img/fake.png",
+            "sizes": "1761x1137",
             "type": "image/png"
         },
         {
